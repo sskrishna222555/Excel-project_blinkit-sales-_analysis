@@ -1,5 +1,4 @@
-# Excel-project_blinkit-sales-_analysis
-Here's a LinkedIn post tailored for your latest Excel project:  
+# Excel-project_blinkit-sales-_analysis 
 
 ---
 
